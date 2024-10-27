@@ -1,4 +1,6 @@
 [core]
-    remote = myremote
+    remote = mremote
 ['remote "myremote"']
     url = /store
+['remote "mremote"']
+    url = C:\Learning Content\DS\CampusX MLOPS\dvc  2 version\store
